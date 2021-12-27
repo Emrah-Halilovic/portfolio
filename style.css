@@ -1,0 +1,99 @@
+.sidebar{
+    position: fixed;
+    overflow-y: hidden;
+    background-color: black;
+    height: 1000px;
+    
+    
+
+}
+
+nav>a{
+    display: block;
+    color: snow;
+    text-decoration: none;
+    padding: 30px;
+    transition-duration: 0,5s;
+    font-weight: bold;
+    font-size: 19px;
+}
+nav>a:hover{
+    color: rgb(13, 14, 13);
+    background-color: lightcoral;
+}
+i{
+    padding-right: 7px;
+}
+.closebtn{
+    font-size: 30px;
+}
+.logo-brand{
+    font-size: 17px;
+    left: 55px;
+    color: white;
+    position: relative;
+    top: 70px;
+    
+}
+.openbtn{
+    border: none;
+    padding: 20px;
+    margin-top:20px;
+    margin-left: 50px;
+    color: snow;
+    background-color: black;
+    font-size: 18px;
+    box-shadow: 5px 5px 5px 5px purple;
+    border-radius: 0 5px 5px 5px;
+}
+.header{
+    background-color: rgb(19, 18, 18);
+}
+.brand-name{
+    color: snow;
+    text-align: end;
+    font-size: 20px;
+    font-family: monospace;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+h1{
+    padding-top: 50px;
+}
+.card-header{
+    font-size: 25px;
+    font-family:fantasy;
+    font-style: italic;
+}
+.card-title{
+    font-style: italic
+}
+#pot-client{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+
+}
+.footer{
+    background-color: rgb(71, 36, 36);
+
+}
+#footer-par{
+    color: snow;
+    font-weight: bold;
+    
+}
+#footer-par>a{
+    color: steelblue;
+   
+}
+#fot-end{
+    color: snow;
+    
+}
+#about-par{
+    color: rgb(32, 1, 1);
+    padding-top: 40px;
+}
+
+
